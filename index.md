@@ -1,4 +1,4 @@
-## CSCI-395421
+## CSCI-395421 Project - Neighborhood Safety
 
 You can use the [editor on GitHub](https://github.com/arahman63/arahman63.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -7,6 +7,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+https://www.google.com/url?sa=i&url=http%3A%2F%2Ftalesofawag.com%2Fneighborhood-safety%2F&psig=AOvVaw1EQIi61UE8TbqkFIUT34Be&ust=1639284916989000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCmxKv62vQCFQAAAAAdAAAAABAd
+
+
 
 ```markdown
 Syntax highlighted code block
@@ -23,7 +27,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://www.google.com/url?sa=i&url=http%3A%2F%2Ftalesofawag.com%2Fneighborhood-safety%2F&psig=AOvVaw1EQIi61UE8TbqkFIUT34Be&ust=1639284916989000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCmxKv62vQCFQAAAAAdAAAAABAd) and ![Image](src)
+[Link](url) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
