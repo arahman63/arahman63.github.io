@@ -1,4 +1,6 @@
 ## CSCI-395421 Project - Neighborhood Safety
+![image](https://user-images.githubusercontent.com/55932705/145664474-88673f59-a1f0-46d8-8ef1-1ef5145ef42d.png)
+
 
 You can use the [editor on GitHub](https://github.com/arahman63/arahman63.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -7,8 +9,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-https://www.google.com/url?sa=i&url=http%3A%2F%2Ftalesofawag.com%2Fneighborhood-safety%2F&psig=AOvVaw1EQIi61UE8TbqkFIUT34Be&ust=1639284916989000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCmxKv62vQCFQAAAAAdAAAAABAd
 
 
 
